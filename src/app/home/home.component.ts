@@ -92,7 +92,7 @@ export class HomeComponent implements OnInit{
      this.progCard4 = {
       id:4,
        progCardImg: './assets/image/b.webp',
-       progCardTitle: 'Le Bâton de Moïse}',
+       progCardTitle: 'Le Bâton de Moïse',
      };
      this.progCard5 = {
       id:5,
